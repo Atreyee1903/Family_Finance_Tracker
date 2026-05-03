@@ -27,8 +27,3 @@ A professional web-based financial management dashboard built with streamlit for
 
 
 
----
-
-**Built with ❤️ for family financial management**
-
-*Last updated: May 3, 2026*
