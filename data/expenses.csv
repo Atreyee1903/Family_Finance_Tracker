@@ -1,0 +1,6 @@
+category,amount,date,paid_by
+Food,10000.0,2026-05-03,1
+Rent,10000.0,2026-05-03,1
+Rent,0.01,2026-05-03,1
+Bills,20000.0,2026-05-03,2
+Entertainment,1000.0,2026-05-03,3
